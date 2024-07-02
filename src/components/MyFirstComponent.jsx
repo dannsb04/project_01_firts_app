@@ -1,12 +1,11 @@
 import React from 'react'
 
-export const Myfirstcomponent = () => {
+export const MyfirstComponent = () => {
   return (
     <>
-    <div>Myfirstcomponent</div>
+    <div>MyfirstComponent</div>
     <div>Hello world, Im Daniel Muñoz</div>
     <div>27 de junio de 2024 </div>
     </>
-    
   )
 }
